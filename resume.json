@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "summary": "坚韧而乐观，喜欢打篮球，对前端新技术很有兴趣。为人诚实守信，做事坚定执着，自信，具有强烈的责任感，较强的再学习能力和逻辑分析能力。未来研究方向为：React深究以及Redux的使用，ECMAScript6以及新的MVC框架angularJs 2.0;Nodejs做爬虫，已经有初步DEMO。",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "zelonggit",
+        "url": "https://github.com/zelonggit"
+      }
+    ],
+    "name": "刘泽龙",
+    "label": "前端工程师 / Front End Developer",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "上海",
+      "countryCode": "CH",
+      "region": "浦东"
+    },
+    "website": "http://willacton.com",
+    "email": "zelongyx@gmail.com",
+    "picture": ""
+  },
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Excellent",
+      "keywords": [
+        "React",
+        "jQuery",
+        "AngularJS",
+        "node.js"
+      ]
+    },
+    {
+      "name": "Front End Dev Tools",
+      "level": "Excellent",
+      "keywords": [
+        "Git",
+        "Gulp",
+        "Browserify",
+        "Babel",
+        "Webpack",
+        "WebStorm"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Excellent",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "LESS"
+      ]
+    },
+    {
+      "name": "Unit Testing",
+      "level": "Competent",
+      "keywords": [
+        "Mocha"
+      ]
+    },
+    {
+      "name": "Other Languages",
+      "level": "Competent",
+      "keywords": [
+        "JAVA",
+        "PHP",
+        "CoffeeScript"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "万达信息股份有限公司,CIC上海有限公司",
+      "position": "JAVA工程师, 前端工程师",
+      "website": "www.reindeerjob.com",
+      "startDate": "2013-07-22",
+      "endDate": "2014-09-01",
+      "summary": "当时作为刚入社会工作的实习生,",
+      "highlights": [
+        "运用Bootstrap, Spring MVC做上海市黄浦区区域临检中心",
+        "2013年作为一个实习生,在被带领着做公司级项目",
+        "并且成为了万达信息2014年优秀实习生",
+        "参加过谷歌开发者年会",
+        "运用canvas制作了复旦校友会游戏,在复旦校友会上被复旦校友选择作为她们的互动节目"
+      ]
+    },
+    {
+      "company": "万达信息股份有限公司",
+      "position": "X-LAB实验室-首席前端工程师",
+      "website": "www.reindeerjob.com",
+      "startDate": "2014-09-01",
+      "endDate": "至今",
+      "summary": "加入万达信息X-LAB实验室, 开始学习新技术,运用新技术",
+      "highlights": [
+        "驯鹿网站的开发，www.reindeerjob.com。前端展现部分使用了Jquery，amaziUI，backbone,undersrcoe。",
+        "商业模式画布（驯鹿工具）: 驯鹿旗下的工具，使用了React+ES6，构建工具为gulp+ webpack，开发工具为WebStorm，版本控制工具为GitLab。NodeJs做前后端支持。",
+        "万达全称健康云: 针对手机兼容性，做了自适应，运用Socket.io做环信即时通信，运用handlerbars做模板引擎。",
+        "奇羽记微信公众号: 根据微信公众号JS API进行开发"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "上海东华大学",
+      "area": "",
+      "studyType": "本科",
+      "startDate": "2010-09-25",
+      "endDate": "2014-06-15",
+      "gpa": "",
+      "courses": [
+        "软件工程"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "publications": [],
+  "languages": [
+    {
+      "language": "中文",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "健身",
+      "keywords": [
+        "篮球,旅行"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
