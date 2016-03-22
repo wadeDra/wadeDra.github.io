@@ -112,6 +112,10 @@ a:hover,
 [class*=am-u-] + [class*=am-u-]:last-child {
   float: left;
 }
+.p-left {
+  text-align: left!important;
+  text-indent: 2em;
+}
 .m-images-container section img,
 .m-news-container section img {
   max-width: 100%;
@@ -612,7 +616,7 @@ figure.effect-lily img {
   transition: opacity 0.35s, -webkit-transform 0.35s;
   transition: opacity 0.35s, transform 0.35s;
   transition: opacity 0.35s, transform 0.35s, -webkit-transform 0.35s;
-  background: url('../images/loading.gif?1440224064') 50% 50% no-repeat;
+  background: url('../i/loading.gif') 50% 50% no-repeat;
 }
 figure.effect-lily figcaption {
   top: auto;
@@ -987,13 +991,12 @@ figure.effect-lily:hover p {
   margin: 14px 0 0 9px;
   width: 23px;
   height: 12px;
-  background: url('../images/side-icon02.png?1406598120');
+  background: url('../i/side-icon.png');
 }
 .m-top-weixin {
   background: #333;
 }
 .m-top-weixin div {
-  background: url('../images/weixin.png?1440917261');
   width: 194px;
   height: 199px;
   position: absolute;
@@ -1023,7 +1026,7 @@ figure.effect-lily:hover p {
   margin: 12px 0 0 11px;
   width: 18px;
   height: 18px;
-  background: url('../images/side-icon01.png?1406598156');
+  background: url('../i/side-icon.png');
 }
 /* 网站底部 */
 .m-footer {
