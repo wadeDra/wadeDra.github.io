@@ -116,6 +116,12 @@ a:hover,
   text-align: left!important;
   text-indent: 2em;
 }
+.p-left2 {
+  text-align: left!important;
+}
+.p-all p {
+  text-align: left!important;
+}
 .m-images-container section img,
 .m-news-container section img {
   max-width: 100%;
@@ -188,12 +194,12 @@ a:hover,
   display: block;
   float: left;
   font-size: 22px;
-  line-height: 40px;
+  line-height: 50px;
   width: 165px;
   color: #fff;
   text-indent: -9999px;
-  background: url('../i/logo.png') no-repeat left center;
-  background-size: 125px 40px;
+  background: url('../i/logonew.png') no-repeat left center;
+  background-size: 150px 50px;
   margin-right: 20px;
 }
 .m-about li {
@@ -372,9 +378,8 @@ a:hover,
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   .m-logo {
-    background: url('../i/logo2.png');
-    background-size: 125px 40px;
-    background-repeat: no-repeat;
+    background: url('../i/logonew.png') no-repeat;
+    background-size: 150px 50px;
   }
 }
 .am-btn-danger {
@@ -1088,6 +1093,7 @@ figure.effect-lily:hover p {
 .detail-h3 {
   color: #1f8dd6;
   text-align: center;
+  max-height: 220px;
 }
 .detail-p {
   color: #464545;
