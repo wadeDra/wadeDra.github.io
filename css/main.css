@@ -194,12 +194,12 @@ a:hover,
   display: block;
   float: left;
   font-size: 22px;
-  line-height: 50px;
-  width: 165px;
+  line-height: 80px;
+  width: 270px;
   color: #fff;
   text-indent: -9999px;
-  background: url('../i/logonew.png') no-repeat left center;
-  background-size: 150px 50px;
+  background: url('../i/logonew.png') no-repeat left top;
+  background-size: 100%;
   margin-right: 20px;
 }
 .m-about li {
@@ -378,8 +378,8 @@ a:hover,
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   .m-logo {
-    background: url('../i/logonew.png') no-repeat;
-    background-size: 150px 50px;
+    background: url('../i/logonew.png') no-repeat left top;
+    background-size: 100%;
   }
 }
 .am-btn-danger {
